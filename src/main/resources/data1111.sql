@@ -1,0 +1,1 @@
+--insert into usuarios (id, login, senha, email ) values (1, 'usuario', '$2a$10$Y50UaMFOxteibQEYLrwuHeehHYfcoafCopUazP12.rqB41bsolF5.','edducaldas@hotmail.com');
